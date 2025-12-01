@@ -1,11 +1,9 @@
 <h1 align="center">Hi🙋‍♀️ This is Arshiya Zarnegar</h1>
 <h2 align="center">A front end developer ╰(*°▽°*)╯</h2>
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
+
 
 <h3> About me :</h3>
-
-
 - 🌱 I’m currently know : Next js , Node js , TypeScript, JavaScript (ES6+), HTML5, CSS3; React, Next.js, Vue, Nuxt; Redux, React Query; REST APIs; Git/Gitflow, Node.js, NPM, Vite; Figma
 
 - 📫 How to reach me : arshyiadiv@gmali.com
