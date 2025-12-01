@@ -11,7 +11,7 @@
 - 📫 How to reach me : arshyiadiv@gmali.com
 -  My linkedin : 
 
-- **JUST BE YOURSELF🤍**
+- **JUST BE YOURSELF🤍:)**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
