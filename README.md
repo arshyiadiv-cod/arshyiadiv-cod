@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently know : Next js , Node js , TypeScript, JavaScript (ES6+), HTML5, CSS3; React, Next.js, Vue, Nuxt; Redux, React Query; REST APIs; Git/Gitflow, Node.js, NPM, Vite; Figma
 
-- 📫 How to reach me : negar.sarani2002@gmail.com
--  My linkedin :  <a href="https://linkedin.com/in/negarsarani" target="blank">negarsarani</a>
+- 📫 How to reach me : arshyiadiv@gmali.com
+-  My linkedin : 
 
 - **JUST BE YOURSELF🤍**
 
@@ -32,19 +32,7 @@
  
   </br>
   
-  <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/negarsarani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/negarsarani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCDyv2STOk7SU8_eNOPkvbCw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
-<a href="https://www.instagram.com/negarsarani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
- <a href="https://t.me/negarsarani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="telegram" height="30" width="30" />
-<div align="center">
-  <a href="">
-    <img align="top" src='https://github-readme-stats.vercel.app/api?username=negarsarani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
-  </a>
 
-  <a href="">
-    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=negarsarani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
-  </a>
-</div>
+  
+
+  
