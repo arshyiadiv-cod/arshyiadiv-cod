@@ -5,7 +5,7 @@
 
 <h3> About me :</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyazarnegar&label=Profile%20views&color=0e75b6&style=flat" alt="arshiyazarnegar" /> </p>
+
 - 🌱 I’m currently know : Next js , Node js , TypeScript, JavaScript (ES6+), HTML5, CSS3; React, Next.js, Vue, Nuxt; Redux, React Query; REST APIs; Git/Gitflow, Node.js, NPM, Vite; Figma
 
 - 📫 How to reach me : arshyiadiv@gmali.com
