@@ -7,7 +7,7 @@
 - 🌱 I’m currently know : Next js , Node js , TypeScript, JavaScript (ES6+), HTML5, CSS3; React, Next.js, Vue, Nuxt; Redux, React Query; REST APIs; Git/Gitflow, Node.js, NPM, Vite; Figma
 
 - 📫 How to reach me : arshyiadiv@gmali.com
--  My linkedin : 
+-  My linkedin : https://www.linkedin.com/feed/
 
 - **JUST BE YOURSELF🤍:)**
 
